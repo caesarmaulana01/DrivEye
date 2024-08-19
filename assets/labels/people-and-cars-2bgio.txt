@@ -1,0 +1,8 @@
+passenger_car
+human
+truck
+bicycle
+van
+other_car
+bus
+motorcycle

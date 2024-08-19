@@ -1,0 +1,9 @@
+bajaj
+bicycle
+bus
+car
+crosswalk
+motorcycle
+person
+truck
+van
